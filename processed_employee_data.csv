@@ -1,0 +1,11 @@
+employee_id,employee_name,department,attendance_days,overtime_hours,tasks_completed,productivity_score,salary,efficiency_score
+101,Akshay,IT,26,12,45,88,45000,59
+102,Rahul,HR,24,8,38,80,40000,54
+103,Priya,Finance,27,10,50,92,50000,67
+104,Arun,IT,25,15,48,90,47000,58
+105,Sneha,Marketing,23,6,35,75,42000,52
+106,Kiran,Finance,28,14,52,95,52000,66
+107,Divya,HR,26,9,41,84,43000,58
+108,Sanjay,Marketing,22,5,30,70,39000,47
+109,Meena,IT,27,13,49,91,48000,63
+110,Ajay,Finance,29,16,55,97,55000,68
